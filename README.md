@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamad Hamad</h1>
-![Linkden ](https://github.com/user-attachments/assets/88cc219a-2220-4710-9e79-b8064e292e47)
 <h3 align="center">An aspiring Full stack Software engineer!</h3>
 
 - 🔭 I’m currently working on **Python Chatbot**

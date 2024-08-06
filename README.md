@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad Hamad</h1>
-<h3 align="center">An aspiring Full stack Software engineer!</h3>
+<h3 align="center">An aspiring Software engineer!</h3>
 
 - 🔭 I’m currently working on **Python Chatbot**
 

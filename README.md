@@ -4,6 +4,12 @@
 
 I'm a passionate second-year Computer Science student at the University of Windsor with a growing interest in cybersecurity. I'm actively learning and expanding my skills, currently enrolled in a comprehensive cybersecurity program to deepen my knowledge in this field!
 
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Full Vulnerability Management lifecyle Implemention](https://github.com/MohamadHamad17/vulnerability-management)**  
+This project simulates the end-to-end implementation of a comprehensive Vulnerability Management (VM) program in an enterprise-like environment. It follows a structured lifecycle from policy creation to asset scanning, vulnerability detection, stakeholder engagement, and automated remediation.
+
 ## 🚀 Software Engineering/Development Projects
 
 - **[JobJournal](https://github.com/MohamadHamad17/JobJournal)**  
@@ -12,10 +18,6 @@ I'm a passionate second-year Computer Science student at the University of Winds
 - **[PHI Video Anonymizer](https://github.com/MohamadHamad17/PHI-Video-Anonymizer)**  
   Developed during my internship at Glendor, this project focuses on identifying and anonymizing Protected Health Information (PHI) in medical videos. It implements advanced open-source models to detect and blur sensitive information such as faces, text, and fingerprints to protect patient privacy. 
 
-## ⚠️ Vulnerability Management Projects
-
-- **[Full Vulnerability Management lifecyle Implemention](https://github.com/MohamadHamad17/vulnerability-management)**  
-This project simulates the end-to-end implementation of a comprehensive Vulnerability Management (VM) program in an enterprise-like environment. It follows a structured lifecycle from policy creation to asset scanning, vulnerability detection, stakeholder engagement, and automated remediation.
 
 ### 🎓 Certifications  
 - Microsoft Azure Fundamentals (AZ-900) — *In Progress*  

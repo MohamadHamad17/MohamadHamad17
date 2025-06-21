@@ -4,31 +4,18 @@
 
 I'm a passionate second-year Computer Science student at the University of Windsor with a growing interest in cybersecurity. I'm actively learning and expanding my skills, currently enrolled in a comprehensive cybersecurity program to deepen my knowledge in this field!
 
-## 🎓 Education
+## 🚀 Software Engineering/Development Projects
 
-- **Bachelor of Computer Science (Applied Computing) Honours with Co-op**  
-  **University of Windsor**  
-  - GPA: **95.8%**  
-  - Achievements: Dean's List, Golden Key Honour Society (Top 15%)
-
-## 🚀 Projects
-
-- **Full-Stack Job Application**  
-  Developing a full-stack application using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to create, edit, and manage their job postings. The application helps users stay organized with a clean interface and efficient workflow for managing job-related tasks.
-
-- **jamming - Music Playlist Creator**  
-  Building a React-based music player application that integrates with Spotify's API, enabling users to search for songs, create custom playlists, and save them directly to their Spotify account.
-
-## 🚀 Projects
+- **[JobJournal](https://github.com/MohamadHamad17/JobJournal)**  
+  Developed a full-stack application using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to create, edit, and manage their job postings. The application helps users stay organized with a clean interface and efficient workflow for managing job-related tasks.
 
 - **[PHI Video Anonymizer](https://github.com/MohamadHamad17/PHI-Video-Anonymizer)**  
   Developed during my internship at Glendor, this project focuses on identifying and anonymizing Protected Health Information (PHI) in medical videos. It implements advanced open-source models to detect and blur sensitive information such as faces, text, and fingerprints to protect patient privacy. 
 
-- **[JobJournal](https://github.com/MohamadHamad17/JobJournal)**  
-  A career-tracking application designed to help users organize and track their job applications. Built with a user-friendly interface and database integration.
+## ⚠️ Vulnerability Management Projects
 
-### 🌟 GitHub Profile
-I strive to build impactful projects and contribute to the tech community through innovative and meaningful work. Feel free to connect with me!
+This project simulates the end-to-end implementation of a comprehensive Vulnerability Management (VM) program in an enterprise-like environment. It follows a structured lifecycle from policy creation to asset scanning, vulnerability detection, stakeholder engagement, and automated remediation.
+
 
 ## 🛠 Skills & Technologies
 - Languages: JavaScript, Python, Java, C

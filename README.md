@@ -17,6 +17,11 @@ I'm a passionate second-year Computer Science student at the University of Winds
 - **[Full Vulnerability Management lifecyle Implemention](https://github.com/MohamadHamad17/vulnerability-management)**  
 This project simulates the end-to-end implementation of a comprehensive Vulnerability Management (VM) program in an enterprise-like environment. It follows a structured lifecycle from policy creation to asset scanning, vulnerability detection, stakeholder engagement, and automated remediation.
 
+### 🎓 Certifications  
+- Microsoft Azure Fundamentals (AZ-900) — *In Progress*  
+- CompTIA Security+ — *In Progress*  
+- CompTIA Network+ — *In Progress*
+
 ## 🛠 Skills & Technologies
 - **Languages:** JavaScript, Python, Java, C  
 - **Frontend:** React, Bootstrap, HTML5, CSS3  

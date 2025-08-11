@@ -4,6 +4,13 @@
 
 I'm a passionate second-year Computer Science student at the University of Windsor with a growing interest in cybersecurity. I'm actively learning and expanding my skills, currently enrolled in a comprehensive cybersecurity program to deepen my knowledge in this field!
 
+## 🛡 Incident Response / Threat Hunting & Security Operations Projects  
+- **[TOR Browser Threat Hunt](https://github.com/MohamadHamad17/TOR-Threat-Hunt)**  
+  Conducted an in-depth threat hunting investigation into unauthorized TOR browser installation and usage on a Windows endpoint. Leveraged Microsoft Defender for Endpoint and advanced KQL queries to identify installation artifacts, process executions, and network connections to known TOR nodes.
+
+- **[Firefox Malicious Script Threat Hunt](https://github.com/MohamadHamad17/Firefox-Malicious-Script-Hunt)**  
+  Investigated a malicious Firefox update script that deployed persistence by creating a scheduled task. Used MITRE ATT&CK mapping, IoC analysis, and cyber kill chain methodology to trace execution flow, identify impacted systems, and develop remediation recommendations.
+
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -20,27 +27,7 @@ This project simulates the end-to-end implementation of a comprehensive Vulnerab
   Developed a full-stack application using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to create, edit, and manage their job postings. The application helps users stay organized with a clean interface and efficient workflow for managing job-related tasks.
 
 - **[PHI Video Anonymizer](https://github.com/MohamadHamad17/PHI-Video-Anonymizer)**  
-  Developed during my internship at Glendor, this project focuses on identifying and anonymizing Protected Health Information (PHI) in medical videos. It implements advanced open-source models to detect and blur sensitive information such as faces, text, and fingerprints to protect patient privacy. 
-
-
-### 🎓 Certifications  
-- Microsoft Azure Fundamentals (AZ-900) — *In Progress*  
-- CompTIA Security+ — *In Progress*  
-- CompTIA Network+ — *In Progress*
-
-## 🛠 Skills & Technologies
-- **Languages:** JavaScript, Python, Java, C  
-- **Frontend:** React, Bootstrap, HTML5, CSS3  
-- **Backend:** Node.js, Express  
-- **Databases:** NoSQL, MongoDB  
-- **Cybersecurity Tools & Experience:**  
-  - Tenable.io / Nessus (Vulnerability Scanning)  
-  - Microsoft Azure (VMs, NSGs, hybrid scanning)  
-  - PowerShell & Bash (Remediation scripting)  
-  - Active Directory (Credential provisioning and access control)  
-  - Wireshark (Network traffic analysis)  
-  - SCCM (Patch deployment and automation)  
-  - ServiceNow / Cherwell (ITSM ticketing systems)
+Developed during my internship at Glendor, this project applies advanced open-source detection models to identify and anonymize Protected Health Information (PHI) in medical videos. Leveraging computer vision and AI, it locates and obscures sensitive data such as faces, on-screen text, and biometric identifiers to mitigate privacy risks and ensure compliance with HIPAA guidelines.
 
 
 <h3 align="left">Languages and Tools:</h3>
